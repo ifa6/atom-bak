@@ -26,3 +26,9 @@
 
 'atom-text-editor:not([mini]), atom-workspace, atom-workspace atom-text-editor':
   'ctrl-shift-M': 'markdown-preview:toggle'
+
+'.platform-win32 atom-workspace, atom-workspace':
+  'ctrl-alt-c': 'csscomb:run'
+
+'.platform-win32 atom-workspace, atom-text-editor:not([mini])':
+  'ctrl-shift-c': 'color-picker:open'

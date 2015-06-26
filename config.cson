@@ -3,7 +3,10 @@
     userId: "144206c5-cc39-585a-cadb-24684c7fa296"
   welcome:
     showOnStartup: false
-  core: {}
+  core:
+    disabledPackages: [
+      "emmet"
+    ]
   editor:
     invisibles: {}
     tabLength: 4
