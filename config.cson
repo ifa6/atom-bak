@@ -8,7 +8,14 @@
     invisibles: {}
     tabLength: 4
     showInvisibles: true
+    softWrap: true
+    showIndentGuide: true
   linter: {}
   pigments: {}
   minimap:
     scrollAnimation: true
+  "js-autoimport":
+    spaceForNamedImports: false
+  "markdown-preview":
+    useGitHubStyle: true
+  "atom-beautify": {}
