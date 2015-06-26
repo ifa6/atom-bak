@@ -1,0 +1,14 @@
+"*":
+  "exception-reporting":
+    userId: "144206c5-cc39-585a-cadb-24684c7fa296"
+  welcome:
+    showOnStartup: false
+  core: {}
+  editor:
+    invisibles: {}
+    tabLength: 4
+    showInvisibles: true
+  linter: {}
+  pigments: {}
+  minimap:
+    scrollAnimation: true
