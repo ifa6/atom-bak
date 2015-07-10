@@ -1,6 +1,6 @@
 {
   "name": "seti-icons",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "The awesome icons provided by Seti UI theme.",
   "keywords": [
     "seti",
@@ -20,10 +20,10 @@
     "url": "https://github.com/wyze/seti-icons/issues"
   },
   "homepage": "https://github.com/wyze/seti-icons",
-  "_id": "seti-icons@0.3.0",
-  "_shasum": "64d641390fc76b5f4c594ed3b45bec7d471363e6",
-  "_resolved": "file:..\\d-115529-200-1v8jxxm\\package.tgz",
-  "_from": "..\\d-115529-200-1v8jxxm\\package.tgz",
+  "_id": "seti-icons@0.3.1",
+  "_shasum": "bfe943a9936a8065f595189d06bf0296e3ee8da3",
+  "_resolved": "file:..\\d-11567-2676-pgrsi\\package.tgz",
+  "_from": "..\\d-11567-2676-pgrsi\\package.tgz",
   "_atomModuleCache": {
     "version": 1,
     "dependencies": [],
